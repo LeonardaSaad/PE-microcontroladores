@@ -8,7 +8,7 @@ A leitura da umidade é feita por quatro sensores conectados ao Arduino, e os da
 
 ## Visão Geral
 
-![Circuito no Tinkercad](./docs/circuito_tinkercad.png)  
+![Circuito no Tinkercad](./docs/circuito_tinkercad_on.png)  
 *Protótipo virtual do circuito montado no Tinkercad*
 
 ---
